@@ -1,0 +1,46 @@
+button{
+    font-size: 40px;
+    margin-top: 3%;
+    background-color:crimson;
+    margin-bottom : 100px;
+}
+#bttn{
+    margin-left : 100px;
+    margin-right : 25%;
+}
+#greaterThan{
+    margin-right : 11%;
+}
+div{
+    display : inline;
+}
+#joining{
+    margin-right : 0px;
+}
+
+body{
+    background-color:powderblue;
+}
+table{
+    display : inline;
+    border:5px solid black;
+    border-collapse: collapse;
+    margin-right : 18%;
+}
+td,th{
+    border:3px solid black;
+    padding: 5px;
+}
+th{
+    background-color:cadetblue;
+}
+#table{
+    text-align: center;
+    margin-left : 30px;
+}
+#table1{
+    text-align: left;
+}
+#table2{
+    text-align: right;
+}
